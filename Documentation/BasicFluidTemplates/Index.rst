@@ -136,7 +136,7 @@ Setup field, write the following lines::
    page.1 = FLUIDTEMPLATE
    page.1 {
       templateName = Basic2ColumnPage
-      templateRootPaths.1 = fileadmin/sitedesign/Resources/Private/Layouts
+      templateRootPaths.1 = fileadmin/sitedesign/Resources/Private/Templates
       variables {
          contentNormal < styles.content.get
          contentRight < styles.content.get
